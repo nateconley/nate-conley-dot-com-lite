@@ -69,7 +69,11 @@ h2 > span {
 	color: var(--slate-blue);
 }
 
-header .sub-header {
+header h1 span {
+	display: block;
+}
+
+header h1 span {
 	color: black;
 	font-size: 1.6rem;
 	font-weight: normal;
